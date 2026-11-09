@@ -6,7 +6,7 @@
 
 Todas as atualizações do River Battle, registradas versão por versão.
 
-[![Site](https://img.shields.io/badge/SITE-jogueriver.pro-7ED957?style=for-the-badge&labelColor=0d1117)](https://jogueriver.pro)
+[![Site](https://img.shields.io/badge/SITE-jogueriver.pro-FF1F8E?style=for-the-badge&labelColor=0d1117)](https://jogueriver.pro)
 [![Discord](https://img.shields.io/badge/DISCORD-riverbattle-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.gg/riverbattle)
 
 </div>
